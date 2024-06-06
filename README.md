@@ -6,6 +6,7 @@ This repository is used to interface with our user community.
 
 ## Update June 6, 2024
 Added instructions on how to obtain access to the code.
+Added the skeleton for Tutorial 0.
 
 ## Update June 6, 2024
 First version of the
